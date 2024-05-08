@@ -30,11 +30,7 @@ pip install -r requirements.txt
 
 1. **Segmentation:**
 
-- Run the segmentation module with your chosen dataset:
-
-  ```
-  python segmentation.py --dataset_path /path/to/dataset
-  ```
+- Run the segmentation module with your chosen dataset.
 
 - This will generate contours for the skin diseases present in the dataset.
 
@@ -42,19 +38,9 @@ pip install -r requirements.txt
 
 - Provide the generated contours and labels to the CGAN or ACGAN model for image generation.
 
-  ```
-  python generate_images.py --contours /path/to/contours --labels /path/to/labels --model cgan
-  ```
-
-  Replace `--model` with `acgan` if using ACGAN.
-
 3. **Testing:**
 
 - Test the generated images using a pre-trained model.
-
-  ```
-  python test.py --test_images /path/to/test_images --model /path/to/pretrained_model.pth
-  ```
 
 ## Directory Structure:
 
@@ -75,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - PyTorch: [PyTorch](https://pytorch.org/)
 - OpenCV: [OpenCV](https://opencv.org/)
 
-Feel free to contribute to this project by forking and submitting pull requests. If you encounter any issues or have suggestions for improvement, please open an issue on the repository. Happy coding!
+Feel free to contribute to this project by forking and submitting pull requests. If you encounter any issues or have suggestions for improvement, please open an issue on the repository.
