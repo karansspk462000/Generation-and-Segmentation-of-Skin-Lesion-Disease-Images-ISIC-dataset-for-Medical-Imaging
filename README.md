@@ -39,7 +39,13 @@ git clone https://github.com/yourusername/skin-disease-segmentation-gan.git
 3. **Testing:**
 
 - Test the generated images using a pre-trained model.
+- 
+## Results:
+<figure>
+<figcaption><em>Deblurred using CNN</em></figcaption>
+  <img src="[https://github.com/sohampadhye007/Enhancing-Low-Light-Blurred-Images-using-Image-Processing-Techniques/blob/main/Deblur_CNN.png](https://github.com/karansspk462000/Generation-and-Segmentation-of-Skin-Lesion-Disease-Images-ISIC-dataset-for-Medical-Imaging/blob/main/output_yfys.png)https://github.com/karansspk462000/Generation-and-Segmentation-of-Skin-Lesion-Disease-Images-ISIC-dataset-for-Medical-Imaging/blob/main/output_yfys.png?raw=true" alt="Deblured Image" title="deblured Image">
 
+</figure>
 ## Acknowledgments:
 
 - ISIC 2016 dataset: [International Skin Imaging Collaboration](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
