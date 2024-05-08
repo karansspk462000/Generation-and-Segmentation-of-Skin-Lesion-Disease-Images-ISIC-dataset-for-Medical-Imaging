@@ -40,15 +40,6 @@ git clone https://github.com/yourusername/skin-disease-segmentation-gan.git
 
 - Test the generated images using a pre-trained model.
 
-## Directory Structure:
-
-- **data/**: Contains the ISIC 2016 dataset.
-- **segmentation.py**: Script for generating contours from the dataset.
-- **generate_images.py**: Script for generating images from contours and labels using CGAN or ACGAN.
-- **test.py**: Script for testing the generated images using a pre-trained model.
-- **models/**: Directory to store trained models.
-- **results/**: Directory to store generated images and test results.
-
 ## Acknowledgments:
 
 - ISIC 2016 dataset: [International Skin Imaging Collaboration](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
