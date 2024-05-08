@@ -51,10 +51,6 @@ pip install -r requirements.txt
 - **models/**: Directory to store trained models.
 - **results/**: Directory to store generated images and test results.
 
-## License:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments:
 
 - ISIC 2016 dataset: [International Skin Imaging Collaboration](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
