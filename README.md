@@ -48,7 +48,7 @@ git clone https://github.com/yourusername/skin-disease-segmentation-gan.git
 </figure>
 
 <figure>
-<figcaption><em>Segmented Mask</em></figcaption>
+<figcaption><em>Generated Images</em></figcaption>
   <img src="https://github.com/karansspk462000/Generation-and-Segmentation-of-Skin-Lesion-Disease-Images-ISIC-dataset-for-Medical-Imaging/blob/main/epoch_99_batch_100.png?raw=true" alt="Output" title="Generated Images">
 </figure>
 
