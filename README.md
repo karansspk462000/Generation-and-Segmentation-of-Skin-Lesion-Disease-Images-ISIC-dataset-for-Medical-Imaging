@@ -47,6 +47,12 @@ git clone https://github.com/yourusername/skin-disease-segmentation-gan.git
   <img src="https://github.com/karansspk462000/Generation-and-Segmentation-of-Skin-Lesion-Disease-Images-ISIC-dataset-for-Medical-Imaging/blob/main/output_yfys.png?raw=true" alt="Output" title="Segmented Mask">
 </figure>
 
+<figure>
+<figcaption><em>Segmented Mask</em></figcaption>
+  <img src="https://github.com/karansspk462000/Generation-and-Segmentation-of-Skin-Lesion-Disease-Images-ISIC-dataset-for-Medical-Imaging/blob/main/epoch_99_batch_100.png?raw=true" alt="Output" title="Generated Images">
+</figure>
+
+
 ## Acknowledgments:
 
 - ISIC 2016 dataset: [International Skin Imaging Collaboration](https://www.isic-archive.com/#!/topWithHeader/wideContentTop/main)
