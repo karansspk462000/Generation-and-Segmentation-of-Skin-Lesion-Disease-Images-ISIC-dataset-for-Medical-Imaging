@@ -16,7 +16,7 @@ This project aims to utilize the ISIC 2016 dataset for segmenting skin disease c
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/skin-disease-segmentation-gan.git
+git clone https://github.com/karansspk462000/skin-disease-segmentation-gan.git
 
 
 2. Install necessary dependencies.
